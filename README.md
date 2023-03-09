@@ -6,4 +6,4 @@ You can check my projects repositories on my profile.
 
 ### Here's my stack:
 
-### <p align="center">Front End</p>
+## <p align="center">Front End</p>
