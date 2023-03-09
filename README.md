@@ -4,6 +4,6 @@ Hi, my name is Luis Miguel, and i'm FullStack Web Developer.
 
 You can check my projects repositories on my profile.
 
-### Here's my stack:
+### Front End Stack:
 
-#### <h3 align="center">Front End:</h3>
+### Back End Stack;
