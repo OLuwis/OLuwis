@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  Contato: ⬇️
+  Contatos: ⬇️
 </p>
 
 <p align="left">
