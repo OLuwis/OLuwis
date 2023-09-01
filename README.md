@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, meu nome é Luis Miguel, e eu sou um desenvolvedor Backend, atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Estácio de Sá, você pode checar meu portifólio aqui em baixo ou no meu <a href="https://oluwis.github.io">website</a>.
+  Olá, meu nome é Luis Miguel, e eu sou um desenvolvedor Fullstack, atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Estácio de Sá, você pode checar meu portifólio aqui em baixo ou no meu <a href="https://oluwis.github.io">website</a>.
 </p>
 
 <p align="left">
