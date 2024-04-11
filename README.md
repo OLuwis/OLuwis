@@ -5,11 +5,7 @@
 </p>
 
 <p align="left">
-  Linguagens: Node/Typescript, Java/Spring, SQL, TDD, React/NextJS e Angular.
-</p>
-
-<p align="left">
-  Ferramentas: VSCode e Git.
+  Linguagens e frameworks: Node/Typescript, Java/Spring, C#/.NET, Ruby/Rails, React/NextJS, Vue/NuxtJS, Docker, RabbitMQ e SQL.
 </p>
 
 <p align="left">
