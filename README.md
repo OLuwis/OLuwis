@@ -3,6 +3,8 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Estácio de Sá.
 
+## Habilidades
+
 **Linguagens:**
 
 ![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
