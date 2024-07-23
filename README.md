@@ -1,9 +1,9 @@
-## Sobre mim
+### Sobre mim:
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Estácio de Sá.
 
-## Minhas Habilidades
+### Minhas Habilidades:
 
 #### Linguagens:
 
@@ -33,7 +33,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oluwis&theme=dracula&show_icons=true" />
 </a>
 
-## Contatos
+### Contatos:
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/luismiguelreis)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluismrs@gmail.com)
