@@ -33,3 +33,5 @@ LinkedIn:
 Email:
 Portifólio:
 Medium:
+
+✨ Obrigado por visitar meu perfil!
