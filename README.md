@@ -29,9 +29,9 @@ Sou um desenvolvedor Full Stack dedicado a criar aplicações modernas, escaláv
 
 Se quiser discutir ideias, colaborar em projetos ou apenas trocar conhecimento, entre em contato!
 
-LinkedIn: [luismiguelreis](https://linkedin.com/in/luismiguelreis)
-Email: [oluismrs@gmail.com](mailto:oluismrs@gmail.com)
-Portifólio: [website](https://oluwis.github.io)
+LinkedIn: [luismiguelreis](https://linkedin.com/in/luismiguelreis)<br/>
+Email: [oluismrs@gmail.com](mailto:oluismrs@gmail.com)<br/>
+Portifólio: [website](https://oluwis.github.io)<br/>
 Medium: [@luwis](https://medium.com/@luwis)
 
 ✨ Obrigado por visitar meu perfil!
