@@ -1,7 +1,6 @@
-### Sobre mim
-- 🧑 Tenho 22 anos e gosto de programação, leitura e coisas de geek.
-- 🤔 Estou explorando novas tecnologias e desenvolvendo softwares.
-- 🎓 Atualmente estudo Análise e Desenvolvimento de Sistemas na Estácio de Sá.
+### 🌟 Sobre mim
+
+Sou um desenvolvedor Full Stack dedicado a criar aplicações modernas, escaláveis e de alta performance. Com foco em entregar valor e inovação, trabalho no desenvolvimento de soluções que conectam ideias à prática, com interfaces amigáveis e sistemas robustos no back-end.
 
 ### Tecnologias
 
