@@ -30,6 +30,8 @@ Sou um desenvolvedor Full Stack dedicado a criar aplicações modernas, escaláv
 Se quiser discutir ideias, colaborar em projetos ou apenas trocar conhecimento, entre em contato!
 
 LinkedIn:
+
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic)![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)
 Email:
 Portifólio:
 Medium:
