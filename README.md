@@ -2,7 +2,11 @@
 
 Sou um desenvolvedor Full Stack dedicado a criar aplicações modernas, escaláveis e de alta performance. Com foco em entregar valor e inovação, trabalho no desenvolvimento de soluções que conectam ideias à prática, com interfaces amigáveis e sistemas robustos no back-end.
 
-### Tecnologias
+### 🛠️ Habilidades
+
+#### Front-End:
+
+##### React e Angular
 
 #### Linguagens de programação
 
