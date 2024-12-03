@@ -29,11 +29,9 @@ Sou um desenvolvedor Full Stack dedicado a criar aplicações modernas, escaláv
 
 Se quiser discutir ideias, colaborar em projetos ou apenas trocar conhecimento, entre em contato!
 
-LinkedIn:
-
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic)![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)
-Email:
-Portifólio:
-Medium:
+LinkedIn: [luismiguelreis](https://linkedin.com/in/luismiguelreis)
+Email: [oluismrs@gmail.com](mailto:oluismrs@gmail.com)
+Portifólio: [website](https://oluwis.github.io)
+Medium: [@luwis](https://medium.com/@luwis)
 
 ✨ Obrigado por visitar meu perfil!
