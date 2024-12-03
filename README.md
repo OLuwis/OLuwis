@@ -25,11 +25,11 @@ Sou um desenvolvedor Full Stack dedicado a criar aplicações modernas, escaláv
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)<br/>
 ![Amazon Web Services Badge](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=for-the-badge)![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-### 📬 Contato
+### 📬 Contatos
 
 Se quiser discutir ideias, colaborar em projetos ou apenas trocar conhecimento, entre em contato!
 
-LinkedIn: [luismiguelreis](https://linkedin.com/in/luismiguelreis)<br/>
+LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://linkedin.com/in/luismiguelreis)<br/>
 Email: [oluismrs@gmail.com](mailto:oluismrs@gmail.com)<br/>
 Portifólio: [website](https://oluwis.github.io)<br/>
 Medium: [@luwis](https://medium.com/@luwis)
