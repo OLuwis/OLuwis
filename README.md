@@ -7,22 +7,22 @@
 ---
 
 ### 💡 Habilidades
-- TypeScript
-- Angular
-- React/Next.js
-- C#/.NET
-- Java/Spring
-- Node.js/Express
-- Python
-- Ruby/Rails
-- PostgreSql/Sqlite
-- MongoDb
-- Redis
-- Docker
-- Git/Github Actions
-- Linux
-- AWS
-- RabbitMq
+- **TypeScript**
+- **Angular**
+- **React/Next.js**
+- **C#/.NET**
+- **Java/Spring**
+- **Node.js/Express**
+- **Python**
+- **Ruby/Rails**
+- **PostgreSql/Sqlite**
+- **MongoDb**
+- **Redis**
+- **Docker**
+- **Git/Github Actions**
+- **Linux**
+- **AWS**
+- **RabbitMq**
 
 ---
 
