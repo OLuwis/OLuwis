@@ -44,9 +44,9 @@
 
 ### 📫  Contatos
 
-- [**LinkedIn - luismiguelreis**](https://linkedin.com/in/luismiguelreis)
-- [**Email - oluismrs@gmail.com**](mailto:oluismrs@gmail.com)
 - [**Tel - 71 99904 8090**](tel:+5571999048090)
+- [**Email - oluismrs@gmail.com**](mailto:oluismrs@gmail.com)
+- [**LinkedIn - luismiguelreis**](https://linkedin.com/in/luismiguelreis)
 
 ---
 
