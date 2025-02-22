@@ -50,4 +50,4 @@
 
 ---
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=oluwis&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" /> Obrigado por visitar meu perfil!
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=oluwis&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
