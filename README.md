@@ -1,37 +1,48 @@
-### 🌟 Sobre mim
+### Olá 👋 Eu me chamo Luis, e sou um Desenvolvedor Web Full-Stack.
 
-Sou um desenvolvedor Full Stack dedicado a criar aplicações modernas, escaláveis e de alta performance. Com foco em entregar valor e inovação, trabalho no desenvolvimento de soluções que conectam ideias à prática, com interfaces amigáveis e sistemas robustos no back-end.
+👨‍💻 Sou um programador de código aberto focado em desenvolvimento para web.
 
-### 🛠️ Habilidades
+📚 Atualmente estou estudando **Análise e Desenvolvimento de Sistemas** na **Estácio de Sá.**
 
-#### Front-End:
+---
 
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)<br/>
-![Angular Badge](https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=for-the-badge)![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)<br/>
-![Sass Badge](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge)![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
+### 💡 Habilidades
+- TypeScript
+- Angular
+- React/Next.js
+- C#/.NET
+- Java/Spring
+- Node.js/Express
+- Python
+- Ruby/Rails
+- PostgreSql/Sqlite
+- MongoDb
+- Redis
+- Docker
+- Git/Github Actions
+- Linux
+- AWS
+- RabbitMq
 
-#### Back-End:
+---
 
-![C# Badge](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff&style=for-the-badge)<br/>
-![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)![Ruby on Rails Badge](https://img.shields.io/badge/Ruby%20on%20Rails-D30001?logo=rubyonrails&logoColor=fff&style=for-the-badge)![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=for-the-badge)
+### 🏅 Certificados
 
-#### Banco de dados:
+- **Estácio - AWS Cloud Practitioner Essentials**
+- **Estácio - AWS Discovery Day**
+- [**FCC - Data Visualization**](https://freecodecamp.org/certification/OLuwis/data-visualization)
+- [**FCC - Javascript Algorithms And Data Structures**](https://freecodecamp.org/certification/oluwis/javascript-algorithms-and-data-structures)
+- [**FCC - Front End Development Libraries**](https://freecodecamp.org/certification/OLuwis/front-end-development-libraries)
+- [**FCC - Responsive Web Design**](https://freecodecamp.org/certification/OLuwis/responsive-web-design)
 
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)<br/>
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)![Redis Badge](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=fff&style=for-the-badge)
+---
 
-#### DevOps e Cloud:
+### 📫  Contatos
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=for-the-badge)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Linux Be](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)<br/>
-![Amazon Web Services Badge](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=for-the-badge)![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+- [**LinkedIn - luismiguelreis**](https://linkedin.com/in/luismiguelreis)
+- [**Email - oluismrs@gmail.com**](mailto:oluismrs@gmail.com)
+- [**Tel - 71 99904 8090**](tel:+5571999048090)
 
-### 📬 Contatos
+---
 
-Se quiser discutir ideias, colaborar em projetos ou apenas trocar conhecimento, entre em contato!
-
-[Email](mailto:oluismrs@gmail.com)<br/>
-[LinkedIn](https://linkedin.com/in/luismiguelreis)<br/>
-[Medium](https://medium.com/@luwis)<br/>
-[Website](https://oluwis.github.io)
-
-✨ Obrigado por visitar meu perfil!
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=oluwis&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" /> Obrigado por visitar meu perfil!
