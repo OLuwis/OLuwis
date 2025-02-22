@@ -37,6 +37,11 @@
 
 ---
 
+### 🌐 Linguagens
+
+- **Inglês Avançado - B2/C1**
+- **Português Nativo**
+
 ### 📫  Contatos
 
 - [**LinkedIn - luismiguelreis**](https://linkedin.com/in/luismiguelreis)
