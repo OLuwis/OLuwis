@@ -42,6 +42,8 @@
 - **Inglês Avançado - B2/C1**
 - **Português Nativo**
 
+---
+
 ### 📫  Contatos
 
 - [**Tel - 71 99904 8090**](tel:+5571999048090)
