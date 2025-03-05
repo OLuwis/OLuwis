@@ -7,7 +7,7 @@
 ---
 
 ### 💡 Habilidades
-- **TypeScript**
+- **Javascript/TypeScript**
 - **Angular**
 - **React/Next.js**
 - **C#/.NET**
@@ -47,7 +47,7 @@
 ### 📫  Contatos
 
 - [**Tel - 71 99904 8090**](tel:+5571999048090)
-- [**Email - oluismrs@gmail.com**](mailto:oluismrs@gmail.com)
+- [**Email - luis.miguel.reis.br@gmail.com**](mailto:luis.miguel.reis.br@gmail.com)
 - [**LinkedIn - luismiguelreis**](https://linkedin.com/in/luismiguelreis)
 
 ---
