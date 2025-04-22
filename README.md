@@ -1,6 +1,6 @@
-### Olá 👋 Eu me chamo Luis, e sou um Desenvolvedor Web Full-Stack.
+### Olá 👋 Eu me chamo Luis, e sou um Desenvolvedor de Software.
 
-👨‍💻 Sou um programador de código aberto focado em desenvolvimento para web.
+👨‍💻 Sou um programador de código aberto focado em desenvolvimento de software para web.
 
 📚 Atualmente estou estudando **Análise e Desenvolvimento de Sistemas** na **Estácio de Sá.**
 
